@@ -1,0 +1,37 @@
+html, body{
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.btn-color{
+    background:#ED017F;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 30px;
+    outline: none;
+    border: none;
+    border: 1px solid #ED017F;
+    font-size: 20px ;
+    
+}
+.btn-color-bg-none{
+    color: #ED017F;
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px 30px;
+    outline: none;
+    border: 1px solid #ED017F;
+    font-size: 20px ;
+    font-weight:600;
+    box-sizing: border-box;
+}
+.default-color{
+    color: #f80084;
+}
+.icon-style {
+    font-size: 20px;
+    color: #ff00889a;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
